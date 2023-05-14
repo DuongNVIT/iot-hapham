@@ -1,0 +1,18 @@
+.homepage {
+    .home-card {
+        background: #d8dff3;
+        border-radius: 15px;
+        width: 200px;
+        padding: 20px;
+        cursor: pointer;
+
+        .text-name {
+            font-weight: 600;
+            color: rgb(28, 35, 51);
+        }
+
+        .text-address {
+            color: gray;
+        }
+    }
+}
